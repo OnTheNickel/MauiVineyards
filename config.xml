@@ -10,9 +10,9 @@
   <description>
       A business template.
   </description>
-<platform name="ios" />
-<platform name="android" />
-<platform name="winphone" />
+<platform name="ios"></platform>
+<platform name="android"></platform>
+<platform name="winphone"></platform>
   <author href="" email="brianet710@aol.com">
       Prof B
   </author>
