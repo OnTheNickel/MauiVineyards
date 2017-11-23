@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.professorbrian.example"
+    versionCode = "01"
+    version     = "1.0.0" >
+<!-- versionCode is optional and Android only -->
+
+  <name>Maui Vineyards</name>
+  <description>
+      A business template.
+  </description>
+<platform name="ios" />
+<platform name="android" />
+<platform name="winphone" />
+  <author href="" email="brianet710@aol.com">
+      Prof B
+  </author>
+
+</widget>
