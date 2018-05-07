@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.professorbrian.example"
-    versionCode = "01"
+    id          = "com.professorbrian.example6"
+    versionCode = "10"
     version     = "1.0.0" >
+
 <!-- versionCode is optional and Android only -->
 
-  <name>Maui Vineyards</name>
+  <name>Maui Vineyard</name>
+
   <description>
-      A business template.
+      An example for phonegap build docs.
   </description>
-<platform name="ios"></platform>
-<platform name="android"></platform>
-<platform name="winphone"></platform>
-  <author href="" email="brianet710@aol.com">
-      Prof B
+
+  <author href="https://build.phonegap.com" email="brianet710@aol.com">
+      brianet710
   </author>
 
 </widget>
+
